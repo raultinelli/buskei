@@ -18,7 +18,7 @@ function ProfissionaisMap() {
                     <span>Apollo</span>
                 </footer>
             </aside>
-            <MapContainer center={[-19.7414837,-40.6651371]} zoom={15} style={{ width: '100%', height: '100%' }}>
+            <MapContainer center={[-15.7193229,-55.3860335]} zoom={15} style={{ width: '100%', height: '100%' }}>
                 {/*<TileLayer
                     url="https://a.tile.openstreetmap.org/{z}/{x}/{y}.png"
                 />*/}

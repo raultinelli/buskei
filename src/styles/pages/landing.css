@@ -39,7 +39,7 @@
 }
 
 #landing-page .content-wrapper main {
-    max-width: 350px;
+    max-width: 370px;
 }
 
 #landing-page .content-wrapper main h1 {
@@ -73,7 +73,7 @@
 }
 
 .content-wrapper .enter-app:hover {
-    background: #b89536;
+    background: #e4b127;
 }
 
 @media ( max-width: 900px ) {

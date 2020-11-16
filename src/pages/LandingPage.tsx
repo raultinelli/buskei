@@ -11,7 +11,7 @@ function Landing() {
             <div className="content-wrapper">
                 <img src={logoimg} alt="logo"/>
                 <main>
-                <h1>Sua beleza merece o melhor</h1>
+                <h1>Sua pele merece os melhores</h1>
                 <p>Encontre profissionais da saúde estética próximos a você</p>
                 </main>
                 <div className="fundo">
