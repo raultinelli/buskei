@@ -23,16 +23,16 @@ function ProfissionaisMap() {
     const [location, setLocation] = useState(initialPosition);
 
     
-    if ('geolocation' in navigator) {
-        navigator.geolocation.getCurrentPosition((position) => {
-            setLocation({
-                lat: position.coords.latitude,
-                lng: position.coords.longitude
-            });
-        });
-    } else {
-            console.log("não passou if");
-    }
+        {/*if ('geolocation' in navigator) {
+                navigator.geolocation.getCurrentPosition((position) => {
+                    setLocation({
+                        lat: position.coords.latitude,
+                        lng: position.coords.longitude
+                    });
+                });
+            } else {
+                    console.log("não passou if");
+            } */} 
 
 
     return(
